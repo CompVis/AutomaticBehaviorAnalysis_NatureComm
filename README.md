@@ -12,10 +12,10 @@ wget -O ./2_code/video/00013.avi "http://compvis10.iwr.uni-heidelberg.de/videos/
 wget -O ./2_code/detection/grasps.mp4 "http://compvis10.iwr.uni-heidelberg.de/videos/rats/grasps.mp4"
 
 For Windows users:
-1) Download the videos using the links
-    http://compvis10.iwr.uni-heidelberg.de/videos/rats/00013.avi
+1) Download the videos using the links <br>
+    http://compvis10.iwr.uni-heidelberg.de/videos/rats/00013.avi <br>
     http://compvis10.iwr.uni-heidelberg.de/videos/rats/grasps.mp4
 
-2) Move the files:
+2) Move the files: <br>
     00013.avi  -> {Project_root}/Code/video/ <br>
     grasps.mp4 -> {Project_root}/Code/detection/
