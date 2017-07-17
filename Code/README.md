@@ -8,4 +8,4 @@ The following toolboxes are required. Because of copyright reasons we provide th
 - vlfeat (for HOG): http://www.vlfeat.org/
 - subplot_tight (for plotting in detection/plotNearestNeighbor.m): https://de.mathworks.com/matlabcentral/fileexchange/30884-controllable-tight-subplot/content/subplot_tight/subplot_tight.m
 
-The video with the final detections and grasps of the given Video can be found in detections/grasps.mp4
+The video with the final detections and grasps of the given Video can be found in detection/grasps.mp4
