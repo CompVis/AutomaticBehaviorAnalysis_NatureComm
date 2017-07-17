@@ -8,8 +8,8 @@ Nature Communication Journal
 # Data downloads
 Examples videos (256MB) can be downloaded using the following command (Ubuntu)
 
-wget -O ./2_code/video/00013.avi "http://compvis10.iwr.uni-heidelberg.de/videos/rats/00013.avi" <br>
-wget -O ./2_code/detection/grasps.mp4 "http://compvis10.iwr.uni-heidelberg.de/videos/rats/grasps.mp4"
+wget -O ./Code/video/00013.avi "http://compvis10.iwr.uni-heidelberg.de/videos/rats/00013.avi" <br>
+wget -O ./Code/detection/grasps.mp4 "http://compvis10.iwr.uni-heidelberg.de/videos/rats/grasps.mp4"
 
 For Windows users:
 1) Download the videos using the links <br>
