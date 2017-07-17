@@ -1,0 +1,2 @@
+- The frames per second in the output Video "grasps.mp4" (created from the function createVideo.m) is set to 10 in contrast to the original fps of 50. With 10 fps it is better to see the detections and beginning/end of the grasping trials.
+- the video "grasps.mp4" is provided in a compressed version, since the original was too large for uploading
