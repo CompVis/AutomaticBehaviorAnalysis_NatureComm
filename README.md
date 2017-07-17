@@ -17,5 +17,5 @@ For Windows users:
     http://compvis10.iwr.uni-heidelberg.de/videos/rats/grasps.mp4
 
 2) Move the files:
-    00013.avi  -> {Project_root}/Code/video/
+    00013.avi  -> {Project_root}/Code/video/ <br>
     grasps.mp4 -> {Project_root}/Code/detection/
